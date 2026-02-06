@@ -52,5 +52,13 @@ Atualmente trabalho como **Assistente Programador (SEMSA – Manaus)** e também
 
 ---
 
+## 🕹️ Play: Bug Hunter (QA Edition)
+
+👉 Clique para jogar: **Bug Hunter**
+https://vashxd.github.io/bug-hunter/
+
+**Como jogar:** aperte **1** (Critical), **2** (Major) ou **3** (Minor).
+
+
 
 ✨ *"Qualidade não é testar depois, é construir certo desde o início."*
