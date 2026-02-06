@@ -46,25 +46,11 @@ Atualmente trabalho como **Assistente Programador (SEMSA – Manaus)** e também
 ## 📚 Estudos & Certificações
 
 * QA & Automação de Testes
+* CTFL
 * Backend (Node.js + MongoDB)
 * Inglês Técnico
-* Direito (foco em concursos e OAB)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vashxd\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashxd\&layout=compact\&theme=radical)
-
----
-
-## 🌐 Onde me encontrar
-
-* 💼 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com)
-* 🧪 Portfólio QA: (em construção)
-
----
 
 ✨ *"Qualidade não é testar depois, é construir certo desde o início."*
