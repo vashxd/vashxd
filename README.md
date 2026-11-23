@@ -39,21 +39,6 @@ I build and test software end to end, from the database schema to the last regre
 
 ---
 
-## Featured games
-
-| Game | What it is | Stack | Link |
-|---|---|---|---|
-| **A Mente Coletiva** | Real-time party game: the host screen runs on a TV, players answer from their phones and score by matching the majority. | React, Node.js, Socket.io, Tailwind | [▶ Play](https://mente-coletiva.vercel.app) |
-| **Batalha Naval Online** | Online multiplayer naval battle in the browser. | JavaScript | [▶ Play](https://batalha-naval-online.vercel.app) |
-| **Stop** | Browser version of the classic word-category game, played with friends. | JavaScript | [▶ Play](https://stop2.vercel.app) |
-| **Bug Hunter** | QA-themed arcade game: triage incoming bugs by severity before they pile up. | HTML, JavaScript | [▶ Play](https://vashxd.github.io/bug-hunter/) |
-| **Letrada** | Offline word puzzle for Android: swipe across a letter wheel to fill a crossword grid. | Flutter, Dart | [Repo](https://github.com/vashxd/Letrada) |
-| **Chroma Invaders** | Minimalist space shooter for mobile. | Flutter, Dart | *In development* |
-
-> 🕹️ **Try Bug Hunter:** press **1** (Critical), **2** (Major) or **3** (Minor) to classify each bug.
-
----
-
 ## Tech stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
